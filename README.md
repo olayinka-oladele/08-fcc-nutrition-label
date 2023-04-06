@@ -1,6 +1,6 @@
-# Project Name
+# FCC NUTRITION LABEL
 
-> One paragraph statement about the project.
+> # A Nutrition label Using HTML element, CSS properties and typography uses to style text to be readable and suit its position.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,39 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 element
+  `h1`, `header`, `div`, `p`, `h2`, `span`
+- CSS properties
+
+* `box-sizing`
+
+- html
+  `font-size`
+- body
+  `font-family`
+- marging
+  `justify-content`, `display: flex`
+- divider
+  `border-bottom`
+- .bold
+  `font-weight`, etc
+
+  - Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-nutrition-label-oladele.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:olayinka-oladele/08-fcc-nutrition-label.git
 
 ```
 
@@ -65,14 +84,13 @@ yarn hint
 
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@olayinka-oladele](https://github.com/olayinka-oladele)
+- Freecodecamp: [@olayinka-oladele](https://freecodecamp.com/author)
+- Linkedin: [@olayinka-oladele](https://www.linkedin.com/in/author/)
 
 ## 🤝 Contributing
 
@@ -86,9 +104,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67)
 
 ## 📝 License
 
