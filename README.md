@@ -23,11 +23,17 @@ Additional description of the project and its features.
 - divider
   `border-bottom`
 - .bold
-  `font-weight`
+  `font-weight`, etc
+
+  - Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-nutrition-label-oladele.netlify.app/)
 
 ### Development (Running locally)
 
@@ -98,7 +104,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- freecodecamp
+- [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-typography-by-building-a-nutrition-label/step-67)
 
 ## 📝 License
 
